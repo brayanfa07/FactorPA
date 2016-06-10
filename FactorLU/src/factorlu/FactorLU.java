@@ -86,6 +86,9 @@ public class FactorLU {
         return matrizU;
     }
 
+    
+    
+    
     //Método que hace cambios de filas e una matriz
     public Double[][] intercambiarFilas(Double [][] matriz, int filaFuente, int filaDestino, String matrizElemental){
         System.out.println("Intercambiando filas de la matriz...");
